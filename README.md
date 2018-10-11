@@ -13,7 +13,7 @@ Here's the pipeline:
 - Run OCR text through a hand-designed brute-force search to get the most likely answer
 - Pass answer through text-to-speech engine and into hidden earpiece
 
-**Disclaimer: This lets you win trivia games, *provided you already have the answers*. Game legitimately aquired and not included for obvious reasons. This doesn't physically work unless you have authorized access to the machine. These machines aren't actually in circulation, you have to find them online and buy them. Be responsible, and have fun!**
+**Disclaimer: This lets you win trivia games, *provided you already have the answers*. Game legitimately aquired and not included for obvious reasons.**
 
 
 ### The game
